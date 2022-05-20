@@ -11,10 +11,6 @@ Skills: REACT / JS / HTML / CSS
 - 📫 How to reach me: kdbaron426@gmail.com 
 - ⚡ Fun fact: my cat's name is molly poyo 😻
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dan13l4)  
-
-![Profile views](https://gpvc.arturio.dev/Dan13l4)  
-
 [<img src='https://www.iconsdb.com/icons/preview/white/github-11-xxl.png' alt='github' height='40'>](https://github.com/https://github.com/Dan13l4)  [<img src='https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/linkedin-icon-18-256.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/karen-daniela-baron-ramirez-558657208//)  
 
 

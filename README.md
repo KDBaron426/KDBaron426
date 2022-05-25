@@ -4,7 +4,7 @@
 
 ✨I am a programmer who loves art, videogames and especially the creation of fun projects for the community. I love cats and I like to study listening to rock music(?. My technologies are javascript, HTML and CSS.✨
 
-Skills: REACT / JS / HTML / CSS
+Skills:  JS / HTML / CSS
 
 - 🔭 I’m currently working on in burger queen app for Laboratoria. 
 - 🌱 I’m currently learning React and Bootstrap 

@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is 🌸✨Karen✨🌸
-#### I am a Front-End Developer In training
+#### I am a Front-End Developer
 ![I am a Front-End Developer In training](https://i.pinimg.com/originals/1a/99/8d/1a998d70c34485255b2a60110282ac6b.jpg)
 
 ✨I am a programmer who loves art, videogames and especially the creation of fun projects for the community. I love cats and I like to study listening to rock music.✨
